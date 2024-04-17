@@ -1,0 +1,3 @@
+# Ignore C output for windows & linux
+*.out
+*.exe
